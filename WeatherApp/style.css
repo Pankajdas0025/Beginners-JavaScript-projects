@@ -1,0 +1,66 @@
+
+
+       :root {
+
+  --primary-color: #6366f1; /* Indigo */
+  --secondary-color: #f43f5e; /* Rose */
+  --bg-light: #f9fafb;
+  --Lighttext-color: #000000;
+  --darktext-color:white;
+  --card-bg: #f3eded;
+  --shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+  --radius: 12px;
+  --font-main: 'Poppins', sans-serif;
+  --hoverbg :#555;
+  --pSize:0.9rem;
+  --border:2px dotted white;
+}
+    body {
+    font-family: 'Segoe UI', sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+font-weight: bold;
+margin: 0;
+color: white;
+/* Add stroke */
+-webkit-text-stroke: 0.1px black; /* width + color */
+transition: all 0.3s ease;
+    }
+
+    .container {
+      background: linear-gradient(to right,var(--primary-color), var(--secondary-color));
+      padding: 30px;
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 0 20px black  inset;
+      width: 320px;
+    }
+
+    input {
+      padding: 10px;
+      width: 80%;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    button {
+      padding: 10px 20px;
+      background-color: #0077ff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    #weatherResult {
+      margin-top: 20px;
+      font-size: 16px;
+    }
+
+    .loading {
+      font-style: italic;
+      color: #555;
+    }

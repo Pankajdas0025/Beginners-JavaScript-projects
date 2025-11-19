@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>QR Code Generator</title>
+  <link rel="stylesheet" href="style.css" />
+
+</head>
+<body>
+  <div class="container">
+    <div class="top-bar">
+      <h1>QR Code Generator</h1>
+    </div>
+
+    <input type="text" id="qr-input" placeholder="Enter your valid URL" />
+    <button onclick="generateQR()">Generate QR</button>
+    <button onclick="downloadQR()">Download QR</button>
+    <div id="qr-code"></div>
+  </div>
+
+  <!-- QR Code Library -->
+  <script src="https://cdn.jsdelivr.net/npm/qrcodejs/qrcode.min.js"></script>
+
+  <script>
+    let qr;
+
+    function generateQR() {
+      const container = document.getElementById("qr-code");
+      const input = document.getElementById("qr-input").value.trim();
+
+      container.innerHTML = ""; // Clear previous QR
+
+      if (input === "") {
+        alert("Please enter text or URL.");
+        return;
+      }
+
+      qr = new QRCode(container, {
+        text: input,
+        width: 200,
+        height: 200,
+        colorDark: "#000000",
+        colorLight: "#ffffff",
+      });
+    }
+
+    function downloadQR() {
+      const qrCodeDiv = document.getElementById("qr-code");
+      const img = qrCodeDiv.querySelector("img");
+
+      if (!img) {
+        alert("Please generate the QR code first.");
+        return;
+      }
+
+      const link = document.createElement("a");
+      link.href = img.src;
+      link.download = "qr-code.png";
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
+</body>
+</html>
