@@ -68,7 +68,7 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
 
 <tr>
 
-   <td width="20%">🔟</td>
+   <td width="20%">🔟 Simple Weather App</td>
    <td width="60%"> A simple weather application using JavaScript and a public API to fetch real-time weather information.</td>
    <td width="20%">  <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/WheatherApp/"> View </a></td>
 
