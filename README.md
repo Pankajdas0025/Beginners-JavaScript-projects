@@ -25,29 +25,29 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
 </tr>
 
 <tr>
-   <td width="20%"> 4.QR-Code-Generator</td>
-   <td width="60%"> Generate QR codes dynamically using JavaScript. Perfect for learning how to integrate libraries and APIs.</td>
+   <td width="20%"> 4.QR-Code-Geenerator</td>
+   <td width="60%"> Generat QR codes dynamically using JavaScript. Perfect for learning how to integrate libraries and APIs.</td>
    <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/QR-Code-Generator/"> View </a></td>
 </tr>
 
 <tr>
    <td width="20%"> 5.StateDistrict</td>
-   <td width="60%"> Generate QR codes dynamically using JavaScript. Perfect for learning how to integrate libraries and APIs.</td>
+   <td width="60%">Select dropdown of districts from all indian state .</td>
    <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/QR-Code-Generator/"> View </a></td>
 </tr>
 
 
 <tr>
-   <td width="20%"> 6.QR-Code-Generator <td>
-   <td width="60%"> Generate QR codes dynamically using JavaScript. Perfect for learning how to integrate libraries and APIs </td>
-   <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/QR-Code-Generator/"> View </a> </td>
+   <td width="20%"> 6. Snake Game </td>
+   <td width="60%"> A simple snake game using javascript looping and conditional statement</td>
+   <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Snake-Game/"> View </a> </td>
 </tr>
 
 
    <tr>
    <td width="20%"> 7.Dropdown Lists> </td>
    <td width="60%"> A small project to select states and districts dynamically. Helps understand DOM manipulation and cascading dropdowns.</td>
-   <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/StateDistrict/"> View </a></td>
+   <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/StateDistrict/"> View </a> </td>
    </tr>
 
 
