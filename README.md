@@ -33,7 +33,7 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
 <tr>
    <td width="20%">5️⃣StateDistrict</td>
    <td width="60%">Select dropdown of districts from all indian state .</td>
-   <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/QR-Code-Generator/"> View </a></td>
+   <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/StateDistrict/"> View </a></td>
 </tr>
 
 
@@ -43,16 +43,8 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
    <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Snake-Game/"> View </a> </td>
 </tr>
 
-
-   <tr>
-   <td width="20%">7️⃣Dropdown Lists> </td>
-   <td width="60%"> A small project to select states and districts dynamically. Helps understand DOM manipulation and cascading dropdowns.</td>
-   <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/StateDistrict/"> View </a> </td>
-   </tr>
-
-
 <tr>
-    <td width="20%" >8️⃣Stopwatch Timer </td>
+    <td width="20%" >7️⃣Stopwatch Timer </td>
     <td  width="60%" > Build a digital stopwatch with start, stop, and reset functionalities. Learn about timing functions in JS.</td>
     <td  width="20%" > <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Stopwatch/"> View </a></td>
 </tr>
@@ -60,7 +52,7 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
 
 
 <tr>
-   <td  width="20%" >9️⃣Text-to-Speech-Converter</td>  
+   <td  width="20%" >8️⃣ Text-to-Speech-Converter</td>  
    <td  width="60%" > Convert typed text to speech using JavaScript's Web Speech API. Fun project for practicing browser APIs.</td>
    <td  width="20%" > <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Text-to-Speech-Converter/"> View </a></td>  
 </tr>   
@@ -68,7 +60,7 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
 
 <tr>
 
-   <td width="20%">🔟 Simple Weather App</td>
+   <td width="20%">9️⃣ Simple Weather App</td>
    <td width="60%"> A simple weather application using JavaScript and a public API to fetch real-time weather information.</td>
    <td width="20%">  <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/WheatherApp/"> View </a></td>
 
