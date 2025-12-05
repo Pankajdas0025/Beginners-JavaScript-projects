@@ -4,64 +4,73 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
 
 ## Projects Included
 
-<table width="100%">
-   
+<table width="100%" border="1">
+
 <tr>
    <td width="20%">1️⃣Calculator</td>
-   <td width="60%"> A basic calculator that performs addition, subtraction, multiplication, and division. </td>
+   <td width="30%"> A basic calculator that performs addition, subtraction, multiplication, and division. </td>
+   <td width="20%"><img src="./Images/calculator.png" /></td>
    <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Calculator/"> View </a></td>
 </tr>
 
-  
+
 <tr>
    <td width="20%">2️⃣2️Keycode Finder </td>
-   <td width="60%"> Learn and experiment with keyboard events in JavaScript. Press keys and see their key codes in action.</td>
+   <td width="30%"> Learn and experiment with keyboard events in JavaScript. Press keys and see their key codes in action.</td>
+   <td width="20%"><img src="./Images/key-code-generator.png" /></td>
    <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Keycode/"> View </a></td>
 </tr>
    <tr>
    <td width="20%">3️⃣Login-Page</td>
-   <td width="60%"> A simple login page to understand form handling and basic client-side validation.</td>
+   <td width="30%"> A simple login page to understand form handling and basic client-side validation.</td>
+   <td width="20%"><img src="./Images/login-page.png" /></td>
    <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Login-Page/"> View </a></td>
 </tr>
 
 <tr>
    <td width="20%">4️⃣QR-Code-Geenerator</td>
-   <td width="60%"> Generat QR codes dynamically using JavaScript. Perfect for learning how to integrate libraries and APIs.</td>
+   <td width="30%"> Generat QR codes dynamically using JavaScript. Perfect for learning how to integrate libraries and APIs.</td>
+   <td width="20%"><img src="./Images/Qr-code-generator.png" /></td>
    <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/QR-Code-Generator/"> View </a></td>
 </tr>
 
 <tr>
    <td width="20%">5️⃣StateDistrict</td>
-   <td width="60%">Select dropdown of districts from all indian state .</td>
+   <td width="30%">Select dropdown of districts from all indian state .</td>
+   <td width="20%"><img src="./Images/district.png" /></td>
    <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/StateDistrict/"> View </a></td>
 </tr>
 
 
 <tr>
    <td width="20%">6️⃣Snake Game </td>
-   <td width="60%"> A simple snake game using javascript looping and conditional statement</td>
+   <td width="30%"> A simple snake game using javascript looping and conditional statement</td>
+   <td width="20%"><img src="./Images/calculator.png" /></td>
    <td width="20%"> <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Snake-Game/"> View </a> </td>
 </tr>
 
 <tr>
     <td width="20%" >7️⃣Stopwatch Timer </td>
-    <td  width="60%" > Build a digital stopwatch with start, stop, and reset functionalities. Learn about timing functions in JS.</td>
+    <td  width="30%" > Build a digital stopwatch with start, stop, and reset functionalities. Learn about timing functions in JS.</td>
+   <td width="20%"><img src="./Images/stopwatch.png" /></td>
     <td  width="20%" > <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Stopwatch/"> View </a></td>
 </tr>
 
 
 
 <tr>
-   <td  width="20%" >8️⃣ Text-to-Speech-Converter</td>  
-   <td  width="60%" > Convert typed text to speech using JavaScript's Web Speech API. Fun project for practicing browser APIs.</td>
-   <td  width="20%" > <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Text-to-Speech-Converter/"> View </a></td>  
-</tr>   
+   <td  width="20%" >8️⃣ Text-to-Speech-Converter</td>
+   <td  width="30%" > Convert typed text to speech using JavaScript's Web Speech API. Fun project for practicing browser APIs.</td>
+   <td width="20%"><img src="./Images/text-to-speech.png" /></td>
+   <td  width="20%" > <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Text-to-Speech-Converter/"> View </a></td>
+</tr>
 
 
 <tr>
 
    <td width="20%">9️⃣ Simple Weather App</td>
-   <td width="60%"> A simple weather application using JavaScript and a public API to fetch real-time weather information.</td>
+   <td width="30%"> A simple weather application using JavaScript and a public API to fetch real-time weather information.</td>
+   <td width="20%"><img src="./Images/Wheather-app.png" /></td>
    <td width="20%">  <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/WheatherApp/"> View </a></td>
 
 </tr>
@@ -74,7 +83,7 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
 
 
 
-  
 
 
-   
+
+
