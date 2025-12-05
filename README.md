@@ -12,7 +12,7 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
    <td width="20%"><img src="./Images/calculator.png" /></td>
    <td width="20%">
     <a href="https://download-directory.github.io/?url=https://github.com/Pankajdas0025/Beginners-JavaScript-projects/tree/main/Calculator">🔗Download </a>
-    <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Calculator/"> View </a></td>
+    <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Calculator/"> 👁️view </a></td>
 </tr>
 
 
@@ -21,8 +21,8 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
    <td width="30%"> Learn and experiment with keyboard events in JavaScript. Press keys and see their key codes in action.</td>
    <td width="20%"><img src="./Images/key-code-generator.png" /></td>
    <td width="20%">
-    <a href=" https://download-directory.github.io/?url=https://github.com/Pankajdas0025/Beginners-JavaScript-projects/tree/main/Keycode">🔗Download </a>
-    <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Keycode/"> View </a></td>
+    <a href="https://download-directory.github.io/?url=https://github.com/Pankajdas0025/Beginners-JavaScript-projects/tree/main/Keycode">🔗Download </a>
+    <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Keycode/"> 👁️view </a></td>
 </tr>
    <tr>
    <td width="20%">3️⃣Login-Page</td>
@@ -30,7 +30,7 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
    <td width="20%"><img src="./Images/login-page.png" /></td>
    <td width="20%">
     <a href="https://download-directory.github.io/?url=https://github.com/Pankajdas0025/Beginners-JavaScript-projects/tree/main/Login-Page">🔗Download </a>
-   <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Login-Page/"> View </a></td>
+   <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Login-Page/"> 👁️view </a></td>
 </tr>
 
 <tr>
@@ -39,7 +39,7 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
    <td width="20%"><img src="./Images/Qr-code-generator.png" /></td>
    <td width="20%">
     <a href="https://download-directory.github.io/?url=https://github.com/Pankajdas0025/Beginners-JavaScript-projects/tree/main/QR-Code-Generator">🔗Download </a>
-   <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/QR-Code-Generator/"> View </a></td>
+   <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/QR-Code-Generator/"> 👁️view </a></td>
 </tr>
 
 <tr>
@@ -48,7 +48,7 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
    <td width="20%"><img src="./Images/district.png" /></td>
    <td width="20%">
     <a href="https://download-directory.github.io/?url=https://github.com/Pankajdas0025/Beginners-JavaScript-projects/tree/main/StateDistrict">🔗Download </a>
-    <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/StateDistrict/"> View </a></td>
+    <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/StateDistrict/"> 👁️view </a></td>
 </tr>
 
 
@@ -58,7 +58,7 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
    <td width="20%"><img src="./Images/calculator.png" /></td>
    <td width="20%">
     <a href="https://download-directory.github.io/?url=https://github.com/Pankajdas0025/Beginners-JavaScript-projects/tree/main/StateDistrict">🔗Download </a>
-   <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Snake-Game/"> View </a> </td>
+   <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Snake-Game/"> 👁️view </a> </td>
 </tr>
 
 <tr>
@@ -67,7 +67,7 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
    <td width="20%"><img src="./Images/stopwatch.png" /></td>
     <td  width="20%" >
      <a href="https://download-directory.github.io/?url=https://github.com/Pankajdas0025/Beginners-JavaScript-projects/tree/main/Stopwatch">🔗Download </a>
-     <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Stopwatch/"> View </a></td>
+     <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Stopwatch/"> 👁️view </a></td>
 </tr>
 
 
@@ -78,7 +78,7 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
    <td width="20%"><img src="./Images/text-to-speech.png" /></td>
    <td  width="20%" >
     <a href="https://download-directory.github.io/?url=https://github.com/Pankajdas0025/Beginners-JavaScript-projects/tree/main/Text-to-Speech-Converter">🔗Download </a>
-   <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Text-to-Speech-Converter/"> View </a></td>
+   <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Text-to-Speech-Converter/"> 👁️view </a></td>
 </tr>
 
 
@@ -89,7 +89,7 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
    <td width="20%"><img src="./Images/Wheather-app.png" /></td>
    <td width="20%">
     <a href="https://download-directory.github.io/?url=https://github.com/Pankajdas0025/Beginners-JavaScript-projects/tree/main/WheatherApp">🔗Download </a>
-    <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/WheatherApp/"> View </a></td>
+    <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/WheatherApp/"> 👁️view </a></td>
 
 </tr>
 </table>
