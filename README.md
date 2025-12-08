@@ -55,9 +55,9 @@ Welcome to the **Beginners JavaScript Projects** repository! This collection con
 <tr>
    <td width="20%">6️⃣Snake Game </td>
    <td width="30%"> A simple snake game using javascript looping and conditional statement</td>
-   <td width="20%"><img src="./Images/calculator.png" /></td>
+   <td width="20%"><img src="./Images/Snake-Game.png" /></td>
    <td width="20%">
-    <a href="https://download-directory.github.io/?url=https://github.com/Pankajdas0025/Beginners-JavaScript-projects/tree/main/StateDistrict">🔗Download </a>
+    <a href="https://download-directory.github.io/?url=https://github.com/Pankajdas0025/Beginners-JavaScript-projects/tree/main/Snake-Game">🔗Download </a>
    <a href="https://pankajdas0025.github.io/Beginners-JavaScript-projects/Snake-Game/"> 👁️view </a> </td>
 </tr>
 
